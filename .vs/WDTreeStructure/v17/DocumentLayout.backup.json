@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wille\\source\\repos\\WDTreeStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49B15A10-0A4E-4F0A-822C-D552CAC495D1}|WDTreeStructure\\WDTreeStructure.csproj|c:\\users\\wille\\source\\repos\\wdtreestructure\\wdtreestructure\\numbersfortree.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{49B15A10-0A4E-4F0A-822C-D552CAC495D1}|WDTreeStructure\\WDTreeStructure.csproj|solutionrelative:wdtreestructure\\numbersfortree.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B15A10-0A4E-4F0A-822C-D552CAC495D1}|WDTreeStructure\\WDTreeStructure.csproj|c:\\users\\wille\\source\\repos\\wdtreestructure\\wdtreestructure\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B15A10-0A4E-4F0A-822C-D552CAC495D1}|WDTreeStructure\\WDTreeStructure.csproj|solutionrelative:wdtreestructure\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B15A10-0A4E-4F0A-822C-D552CAC495D1}|WDTreeStructure\\WDTreeStructure.csproj|c:\\users\\wille\\source\\repos\\wdtreestructure\\wdtreestructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B15A10-0A4E-4F0A-822C-D552CAC495D1}|WDTreeStructure\\WDTreeStructure.csproj|solutionrelative:wdtreestructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B15A10-0A4E-4F0A-822C-D552CAC495D1}|WDTreeStructure\\WDTreeStructure.csproj|c:\\users\\wille\\source\\repos\\wdtreestructure\\wdtreestructure\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B15A10-0A4E-4F0A-822C-D552CAC495D1}|WDTreeStructure\\WDTreeStructure.csproj|solutionrelative:wdtreestructure\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tree.cs",
+              "DocumentMoniker": "C:\\Users\\wille\\source\\repos\\WDTreeStructure\\WDTreeStructure\\Tree.cs",
+              "RelativeDocumentMoniker": "WDTreeStructure\\Tree.cs",
+              "ToolTip": "C:\\Users\\wille\\source\\repos\\WDTreeStructure\\WDTreeStructure\\Tree.cs",
+              "RelativeToolTip": "WDTreeStructure\\Tree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T22:06:22.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "numbersfortree.txt",
+              "DocumentMoniker": "C:\\Users\\wille\\source\\repos\\WDTreeStructure\\WDTreeStructure\\numbersfortree.txt",
+              "RelativeDocumentMoniker": "WDTreeStructure\\numbersfortree.txt",
+              "ToolTip": "C:\\Users\\wille\\source\\repos\\WDTreeStructure\\WDTreeStructure\\numbersfortree.txt",
+              "RelativeToolTip": "WDTreeStructure\\numbersfortree.txt",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAUwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-09T22:04:46.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TreeNode.cs",
+              "DocumentMoniker": "C:\\Users\\wille\\source\\repos\\WDTreeStructure\\WDTreeStructure\\TreeNode.cs",
+              "RelativeDocumentMoniker": "WDTreeStructure\\TreeNode.cs",
+              "ToolTip": "C:\\Users\\wille\\source\\repos\\WDTreeStructure\\WDTreeStructure\\TreeNode.cs",
+              "RelativeToolTip": "WDTreeStructure\\TreeNode.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T22:03:38.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wille\\source\\repos\\WDTreeStructure\\WDTreeStructure\\Program.cs",
+              "RelativeDocumentMoniker": "WDTreeStructure\\Program.cs",
+              "ToolTip": "C:\\Users\\wille\\source\\repos\\WDTreeStructure\\WDTreeStructure\\Program.cs",
+              "RelativeToolTip": "WDTreeStructure\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T22:00:16.483Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
